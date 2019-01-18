@@ -21,7 +21,7 @@
   "homepage": "https://github.com/tailify/babel-preset-react#readme",
   "dependencies": {
     "@babel/preset-react": "7.0.0",
-    "@tailify/babel-preset": "1.2.0",
+    "@tailify/babel-preset": "2.0.0",
     "babel-plugin-react-css-modules": "5.0.0"
   },
   "devDependencies": {
