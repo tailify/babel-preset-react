@@ -1,0 +1,26 @@
+{
+  "name": "@tailify/babel-preset-react",
+  "version": "0.0.0",
+  "description": "Tailify's very own opinionated Babel preset for React",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "tailify/babel-preset-react",
+  "keywords": [
+    "babel",
+    "babel-preset"
+  ],
+  "license": "UNLICENSED",
+  "bugs": "https://github.com/tailify/babel-preset-react/issues",
+  "homepage": "https://github.com/tailify/babel-preset-react#readme",
+  "engines": {
+    "node": ">=8"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
