@@ -10,3 +10,13 @@ branches:
     - /^v\d+\.\d+\.\d+$/
 
 cache: npm
+
+deploy:
+  provider: npm
+  email: "${NPM_EMAIL}"
+  api_key: "${NPM_TOKEN}"
+  on:
+    branch: master
+    node: 10
+    repo: "${TRAVIS_REPO_SLUG}"
+    tags: true
