@@ -18,11 +18,17 @@
   "license": "UNLICENSED",
   "bugs": "https://github.com/tailify/babel-preset-react/issues",
   "homepage": "https://github.com/tailify/babel-preset-react#readme",
+  "dependencies": {
+    "@tailify/babel-preset": "1.2.0"
+  },
   "devDependencies": {
     "@tailify/eslint-config-legacy": "^1.0.0",
     "@tailify/prettier-config": "^1.0.0",
     "eslint": "^5.9.0",
     "prettier": "^1.15.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
   },
   "engines": {
     "node": ">=8"
