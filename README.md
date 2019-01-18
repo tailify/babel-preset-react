@@ -2,6 +2,7 @@
 
 [![Build status][build-status-image]][build-status-url]
 [![Greenkeeper][greenkeeper-image]][greenkeeper-url]
+[![Version][version-image]][version-url]
 
 > Tailify's very own opinionated Babel preset for React.
 
@@ -28,3 +29,6 @@ module.exports = {
 
 [greenkeeper-image]: https://badges.greenkeeper.io/tailify/babel-preset-react.svg
 [greenkeeper-url]: https://greenkeeper.io
+
+[version-image]: https://img.shields.io/npm/v/@tailify/babel-preset-react.svg
+[version-url]: https://www.npmjs.com/package/@tailify/babel-preset-react
