@@ -22,7 +22,7 @@
   "dependencies": {
     "@babel/preset-react": "7.0.0",
     "@tailify/babel-preset": "2.1.0",
-    "babel-plugin-react-css-modules": "5.0.1"
+    "babel-plugin-react-css-modules": "5.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
