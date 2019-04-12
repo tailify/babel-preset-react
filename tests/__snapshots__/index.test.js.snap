@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should not contain invalid rules 1`] = `
+"var _jsxFileName = \\"\\";
+React.createElement(Foo, {
+  bar: \\"baz\\",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 1
+  },
+  __self: this
+});"
+`;

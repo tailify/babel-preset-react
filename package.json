@@ -21,21 +21,18 @@
   "homepage": "https://github.com/tailify/babel-preset-react#readme",
   "dependencies": {
     "@babel/preset-react": "7.0.0",
-    "@tailify/babel-preset": "2.2.0",
     "babel-plugin-react-css-modules": "5.2.4"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@tailify/eslint-config-legacy": "^1.0.0",
     "@tailify/prettier-config": "^1.0.0",
-    "core-js": "^3.0.0",
     "eslint": "^5.9.0",
     "jest": "^24.7.0",
     "prettier": "^1.15.0"
   },
   "peerDependencies": {
-    "@babel/core": "^7.0.0",
-    "core-js": "^3.0.0"
+    "@babel/core": "^7.0.0"
   },
   "engines": {
     "node": ">=8"
