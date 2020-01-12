@@ -20,7 +20,7 @@
   "bugs": "https://github.com/tailify/babel-preset-react/issues",
   "homepage": "https://github.com/tailify/babel-preset-react#readme",
   "dependencies": {
-    "@babel/preset-react": "7.0.0",
+    "@babel/preset-react": "7.8.0",
     "babel-plugin-react-css-modules": "5.2.6"
   },
   "devDependencies": {
